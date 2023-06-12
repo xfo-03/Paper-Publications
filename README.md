@@ -1,4 +1,5 @@
-# Paper-Publications
+# Analysis of the semantic categorization technique of analogous labels using the
+Deep Learning Technique
 
 The research paper was published at an international conference. 
 This paper introduces the idea model of usual language to resolve elevated modes
